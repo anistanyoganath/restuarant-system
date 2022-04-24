@@ -1,0 +1,7 @@
+.quantity {
+  display: flex;
+  align-items: center;
+}
+.quantity * {
+  margin: auto;
+}
